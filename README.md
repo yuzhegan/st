@@ -6,7 +6,7 @@ st is a simple terminal emulator for X which sucks less.
 Requirements
 ------------
 In order to build st you need the Xlib header files.
-
+Fira Code Nerd Font Mono ----- `yay -S nerd-fonts-fira-code`  
 
 Installation
 ------------
