@@ -7,6 +7,7 @@ Requirements
 ------------
 In order to build st you need the Xlib header files.
 Fira Code Nerd Font Mono ----- `yay -S nerd-fonts-fira-code`  
+`yay -S nerd-fonts-complete` <++>
 
 Installation
 ------------
